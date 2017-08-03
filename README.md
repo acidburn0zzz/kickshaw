@@ -26,6 +26,7 @@
     are sufficient to compile and install this program, there is no configure
     script file which has to be started first.
 
+
 # IMPORTANT NOTES
 
     From version 0.5 on this program has all essential plus some additional

@@ -5,7 +5,8 @@ CFLAGS  = -O2 -pedantic -std=gnu99 -Wall -Wextra `pkg-config gtk+-3.0 --cflags`
 LDADD   = `pkg-config gtk+-3.0 --libs`
 CC      = gcc
 PACKAGE = kickshaw
-PREFIX 	= /usr/local
+PREFIX 	= /usr
+
 
 all: ${OBJS}
 	${CC} -o ${PACKAGE} ${OBJS} ${LDADD}
@@ -18,6 +19,7 @@ clean:
 
 install:
 	cp kickshaw $(PREFIX)/bin
+	cp kickshaw.desktop $(PREFIX)/share/applications
 
 uninstall:
 	rm $(PREFIX)/bin/kickshaw
