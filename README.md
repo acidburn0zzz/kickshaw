@@ -26,6 +26,15 @@
     are sufficient to compile and install this program, there is no configure
     script file which has to be started first.
 
+# INSTALLATION
+
+    A simply script is provided to build and install the program in a terminal
+
+    git clone https://github.com/natemaia/kickshaw
+
+    cd kickshaw/
+
+    ./install
 
 # IMPORTANT NOTES
 
