@@ -19,22 +19,20 @@
 
 # REQUIREMENTS
 
-    Dependencies: GTK 3, the code makes use of GNU extensions. Kickshaw is not
-    dependent on Openbox, it can be used inside all window managers/desktop
-    environments that support GTK applications to create and edit menu files.
-    A makefile is included in the source directory. "make" and "make install"
-    are sufficient to compile and install this program, there is no configure
-    script file which has to be started first.
+    Dependencies: GTK 3 & GCC
+    Kickshaw is not dependent on Openbox, it can be used inside all
+    window managers/desktop environments that support GTK applications
+    to create and edit menu files.
 
 # INSTALLATION
 
-    A simply script is provided to build and install the program in a terminal
+    A simply script is provided to build and install the program
 
     git clone https://github.com/natemaia/kickshaw
 
     cd kickshaw/
 
-    ./install
+    ./install && exit
 
 # IMPORTANT NOTES
 
