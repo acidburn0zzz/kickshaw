@@ -1,7 +1,7 @@
 # Kickshaw - A Menu Editor for Openbox
-   
+
    ![alt text](https://cdn.scrot.moe/images/2017/08/04/kickshaw.png)
-   
+
 # REQUIREMENTS
 
     Dependencies: GTK 3 & GCC
@@ -11,7 +11,7 @@
 
 # INSTALLATION
 
-    A simply script is provided to build and install the program
+    A simple script is provided to build and install the program
 
     git clone https://github.com/natemaia/kickshaw
 
@@ -67,7 +67,7 @@
     it doesn't for tree views, so it wasn't implemented here.
 
 # LICENSE
-    
+
         Copyright (c) 2010-2013        Marcus Schaetzle
 
     This program is free software; you can redistribute it and/or modify
