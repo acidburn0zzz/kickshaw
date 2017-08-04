@@ -1,5 +1,6 @@
 # Kickshaw - A Menu Editor for Openbox
-
+   
+   ![alt text](https://cdn.scrot.moe/images/2017/08/04/kickshaw.png)
    
 # REQUIREMENTS
 
