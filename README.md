@@ -4,7 +4,7 @@
 
 # REQUIREMENTS
 
-    Dependencies: Gtk3+, GCC
+    Dependencies: gtk3, gcc
     
     Kickshaw is not dependent on Openbox, it can be used inside all
     window managers/desktop environments that support GTK applications
