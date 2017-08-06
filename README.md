@@ -20,6 +20,7 @@
     
     packer -S kickshaw
 
+    
     A simple script is provided to build and install from source if you prefer
 
     git clone https://github.com/natemaia/kickshaw
@@ -27,6 +28,7 @@
     cd kickshaw/
 
     ./install && exit
+    
     
     A makefile is provided. Running 'make' then 'sudo make install'
     in ../kickshaw/source/ is all that's required for installation
