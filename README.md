@@ -4,7 +4,8 @@
 
 # REQUIREMENTS
 
-    Dependencies: GTK 3 & GCC
+    Dependencies: Gtk3+, GCC
+    
     Kickshaw is not dependent on Openbox, it can be used inside all
     window managers/desktop environments that support GTK applications
     to create and edit menu files.
